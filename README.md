@@ -75,23 +75,6 @@ Programs were evaluated across five dimensions: agri-food sector, country, certi
 
 ---
 
-## Repository Structure
-
-```
-TREEIN-framework/
-├── README.md
-├── LICENSE                          # CC BY 4.0
-├── treein_framework.svg             # TREEIN protocol diagram (LCA & ESA lanes)
-├── carbon_balance_argiano.svg       # Annual CO₂ balance — Argiano 2020
-├── docs/
-│   └── paper_csr2879.pdf            # Published paper (open access via Wiley)
-└── data/
-    ├── sustainability_programs.csv  # 18 European wine & evoo sustainability programs
-    └── argiano_lca_esa_summary.csv  # Argiano case study results (Table 3)
-```
-
----
-
 ## Certification Schemes Covered
 
 TREEIN maps and integrates certifications across two methodological families:
